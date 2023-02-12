@@ -1,0 +1,2 @@
+from classifly.objects.account.portfolio_company.singular import PortfolioCompany
+from classifly.objects.account.portfolio_company.plural import PortfolioCompanies
